@@ -11,9 +11,9 @@
 
 
 ### 📫 Connect With Me
-<a href="mailto:olukayodelolade@gmail.com" target="_blank">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/svgs/solid/envelope-solid-full.svg" width="24" height="24" />
-</a>
+
+- **Email:** yourname@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/lolade-olukayode-35a76a210/
 
 
 <!--
