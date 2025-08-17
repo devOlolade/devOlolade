@@ -12,7 +12,7 @@
 
 ### 📫 Connect With Me
 
-- **Email:** yourname@gmail.com  
+- **Email:** olukayodelolade@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/lolade-olukayode-35a76a210/
 
 
