@@ -2,7 +2,7 @@
 
 **Backend / Software Developer** 
 
-💻 PHP • MySQL • PostgreSQL (learning) • Python (Flask) • Node.js • React
+💻 PHP • MySQL • PostgreSQL • Python (Flask) • Node.js • React
 
 ---
 🌍 Exploring web applications and real-world projects  
